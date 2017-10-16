@@ -7,4 +7,4 @@ Cifrado y descifrado basico de mensaje con Python 3. Cada letra de la palabra o 
 
 ## Vista previa
 
-![picture alt](Prueba.png)
+![picture alt](Prueba.PNG)
